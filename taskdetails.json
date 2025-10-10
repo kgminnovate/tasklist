@@ -544,7 +544,7 @@
     "TASK_DESCRIPTION": "Implementation Details",
     "DUEDATE": "03/01/2022",
     "OWNER": "Mohan S",
-    "TYPE": null,
+    "TYPE": New Application,
     "PRIORITY": "Low",
     "LATEST_STATUS": "Important Dates:\r\n\r\nPurchase Order date: 25-Aug-2022\r\nOrdering date(OFSS): 19-Oct-2022\r\n\r\nTitle Schedule End   \r\nInitiation Phase Aug 30  2022\r\nPlanning Phase Aug 30  2023\r\nExecution Phase Jun 30  2024\r\nControl Phase May 31  2024 \r\nClose Phase Jul 31  2024 \r\n\r\n\r\n\r\nName of the Module\t       UAT Start Date\r\nImport LC\t14-Sep-23\r\nExport LC\t21-Nov-23\r\nImport Bills Collections & IDPMS\t16-Feb-24\r\nExport Bills Collections & EDPMS\t08-Mar-24\r\nBank Guarantee\t25-Jul-24\r\nRemittances\t14-Aug-24\r\n\r\n",
     "STATUS_UPDATEDON": "2025-10-10T07:41:00"
@@ -1143,4 +1143,5 @@
     "LATEST_STATUS": "DPSecure - Miscellaneous Activities",
     "STATUS_UPDATEDON": "2025-07-04T01:54:18"
   }
+
 ]
